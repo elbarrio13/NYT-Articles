@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24D81" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CDArticle" representedClassName="CDArticle" syncable="YES" codeGenerationType="class">
+        <attribute name="abstract" optional="YES" attributeType="String"/>
+        <attribute name="byline" optional="YES" attributeType="String"/>
+        <attribute name="caption" optional="YES" attributeType="String"/>
+        <attribute name="imageURL" attributeType="String"/>
+        <attribute name="section" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="updatedDate" attributeType="String"/>
+    </entity>
+</model>

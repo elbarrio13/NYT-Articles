@@ -1,0 +1,1274 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/41cc607d-56c2-5b4b-82a8-015b91f102a3",
+      "url": "https://www.nytimes.com/2025/03/24/well/move/evening-yoga-routine.html",
+      "id": 100000009990064,
+      "asset_id": 100000009990064,
+      "source": "New York Times",
+      "published_date": "2025-03-24",
+      "updated": "2025-03-27 03:09:59",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "vis-video;Yoga;Content Type: Service;Sleep",
+      "column": null,
+      "byline": "By Christine Yu and Theodore Tae",
+      "type": "Article",
+      "title": "A 10-Minute Evening Yoga Routine for Better Sleep",
+      "abstract": "These beginner-friendly poses can help you wind down before bed.",
+      "des_facet": [
+        "vis-video",
+        "Yoga",
+        "Content Type: Service",
+        "Sleep"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Theodore Tae/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/well/EVENING-YOGA_ART/EVENING-YOGA_ART-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/well/EVENING-YOGA_ART/EVENING-YOGA_ART-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/well/EVENING-YOGA_ART/EVENING-YOGA_ART-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/09b9b3f9-e6d7-5bc7-a62b-653b7ab8638b",
+      "url": "https://www.nytimes.com/2025/03/26/well/move/strength-training-knee-pain.html",
+      "id": 100000009985064,
+      "asset_id": 100000009985064,
+      "source": "New York Times",
+      "published_date": "2025-03-26",
+      "updated": "2025-03-27 13:15:45",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Knees;Running;Muscles;Content Type: Service;Weight Lifting;Osteoarthritis;Sports Injuries",
+      "column": null,
+      "byline": "By Hilary Achauer",
+      "type": "Article",
+      "title": "Knees Hurt? This Exercise Can Help.",
+      "abstract": "Strength training can be one of the best treatments for chronic knee pain. Here’s how to do it safely.",
+      "des_facet": [
+        "Knees",
+        "Running",
+        "Muscles",
+        "Content Type: Service",
+        "Weight Lifting",
+        "Osteoarthritis",
+        "Sports Injuries"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr. for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26KNEE-PAIN-LIFTING_TEST1/26KNEE-PAIN-LIFTING_TEST1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26KNEE-PAIN-LIFTING_TEST1/26KNEE-PAIN-LIFTING_TEST1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26KNEE-PAIN-LIFTING_TEST1/26KNEE-PAIN-LIFTING_TEST1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/0435cd0a-66c7-5cbb-aea9-aa51c7828363",
+      "url": "https://www.nytimes.com/interactive/2025/03/25/us/signal-group-chat-text-annotations.html",
+      "id": 100000010072948,
+      "asset_id": 100000010072948,
+      "source": "New York Times",
+      "published_date": "2025-03-25",
+      "updated": "2025-03-27 11:20:24",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Defense and Military Forces;Classified Information and State Secrets;United States Politics and Government;War and Armed Conflicts;Hegseth, Pete;Trump, Donald J;Waltz, Michael (1974- );Vance, J D;Rubio, Marco;Kent, Joe (1980- );Ratcliffe, John Lee (1965- );Bessent, Scott;Wiles, Susie;Gabbard, Tulsi (1981- );Witkoff, Steven;Miller, Stephen (1985- );Goldberg, Jeffrey;Signal (Open Whisper Systems);Atlantic Monthly;Defense Department;Houthis;Yemen",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "The Leaked Signal Chat, Annotated",
+      "abstract": "The chat’s contents, which were obtained by The Atlantic after its editor in chief was added to the Signal group, provide a revealing look at private conversations between top Trump administration officials.",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Classified Information and State Secrets",
+        "United States Politics and Government",
+        "War and Armed Conflicts"
+      ],
+      "org_facet": [
+        "Signal (Open Whisper Systems)",
+        "Atlantic Monthly",
+        "Defense Department",
+        "Houthis"
+      ],
+      "per_facet": [
+        "Hegseth, Pete",
+        "Trump, Donald J",
+        "Waltz, Michael (1974- )",
+        "Vance, J D",
+        "Rubio, Marco",
+        "Kent, Joe (1980- )",
+        "Ratcliffe, John Lee (1965- )",
+        "Bessent, Scott",
+        "Wiles, Susie",
+        "Gabbard, Tulsi (1981- )",
+        "Witkoff, Steven",
+        "Miller, Stephen (1985- )",
+        "Goldberg, Jeffrey"
+      ],
+      "geo_facet": [
+        "Yemen"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/multimedia/2025-03-25-atlantic-signal-leak-annotation-index/2025-03-25-atlantic-signal-leak-annotation-index-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/multimedia/2025-03-25-atlantic-signal-leak-annotation-index/2025-03-25-atlantic-signal-leak-annotation-index-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/multimedia/2025-03-25-atlantic-signal-leak-annotation-index/2025-03-25-atlantic-signal-leak-annotation-index-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/e67f7cbb-bcf8-576d-aa62-0e1f754f636b",
+      "url": "https://www.nytimes.com/interactive/2025/03/21/books/adrienne-rich-aunt-jennifers-tigers-poem.html",
+      "id": 100000010007901,
+      "asset_id": 100000010007901,
+      "source": "New York Times",
+      "published_date": "2025-03-21",
+      "updated": "2025-03-22 14:33:04",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Poetry and Poets;vis-design;Rich, Adrienne",
+      "column": null,
+      "byline": "By A.O. Scott",
+      "type": "Interactive",
+      "title": "Life Isn’t Perfect. But This Poem Might Be.",
+      "abstract": "“Aunt Jennifer’s Tigers,” by Adrienne Rich, is a blazing portrait of an artist and her work. Our critic A.O. Scott admires its craft — and its wildness.",
+      "des_facet": [
+        "Poetry and Poets",
+        "vis-design"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rich, Adrienne"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Isabella Cotier",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/books/rich-illo/rich-illo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/books/rich-illo/rich-illo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/books/rich-illo/rich-illo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/53b2c41a-06df-55e5-b0db-e339d91eb096",
+      "url": "https://www.nytimes.com/2025/03/20/us/politics/musk-pentagon-briefing-china-war-plan.html",
+      "id": 100000010064369,
+      "asset_id": 100000010064369,
+      "source": "New York Times",
+      "published_date": "2025-03-20",
+      "updated": "2025-03-21 14:59:26",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Classified Information and State Secrets;Conflicts of Interest;United States Defense and Military Forces;United States International Relations;United States Politics and Government;Musk, Elon;Trump, Donald J;Hegseth, Pete;Government Efficiency Department (US);Space Exploration Technologies Corp;Defense Department;China",
+      "column": null,
+      "byline": "By Eric Schmitt, Eric Lipton, Julian E. Barnes, Ryan Mac and Maggie Haberman",
+      "type": "Article",
+      "title": "Pentagon Set Up Briefing for Musk on Potential War With China",
+      "abstract": "The access would be a major expansion of Elon Musk’s government role and highlight his conflicts of interest.",
+      "des_facet": [
+        "Classified Information and State Secrets",
+        "Conflicts of Interest",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Government Efficiency Department (US)",
+        "Space Exploration Technologies Corp",
+        "Defense Department"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J",
+        "Hegseth, Pete"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump with Elon Musk and Mr. Musk’s son X, at the White House this month. It is unclear what the reasoning is for providing Mr. Musk such a sensitive briefing.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/20dc-musk-pentagon-hqpg/20dc-musk-pentagon-hqpg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/20dc-musk-pentagon-hqpg/20dc-musk-pentagon-hqpg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/20dc-musk-pentagon-hqpg/20dc-musk-pentagon-hqpg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d16dd998-970a-56bc-8f94-66c32c3a4d3b",
+      "url": "https://www.nytimes.com/2025/03/21/nyregion/columbia-response-trump-demands.html",
+      "id": 100000010063571,
+      "asset_id": 100000010063571,
+      "source": "New York Times",
+      "published_date": "2025-03-21",
+      "updated": "2025-03-22 14:36:43",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Colleges and Universities;Academic Freedom;School Discipline (Students);Anti-Semitism;Pro-Palestinian Campus Protests (2023- );Civil Rights and Liberties;Federal Aid (US);United States Politics and Government;Armstrong, Katrina A;Trump, Donald J;Columbia University;New York City",
+      "column": null,
+      "byline": "By Troy Closson",
+      "type": "Article",
+      "title": "Columbia Agrees to Trump’s Demands After Federal Funds Are Stripped",
+      "abstract": "The administration has moved to cut $400 million in federal funding to the university without changes to its policies and rules.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Academic Freedom",
+        "School Discipline (Students)",
+        "Anti-Semitism",
+        "Pro-Palestinian Campus Protests (2023- )",
+        "Civil Rights and Liberties",
+        "Federal Aid (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Columbia University"
+      ],
+      "per_facet": [
+        "Armstrong, Katrina A",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Columbia University was accused by the Trump administration of a systemic failure to protect students and faculty members “from antisemitic violence and harassment.”",
+          "copyright": "Bing Guan for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/00met-columbia-response1-zpvg/00met-columbia-response1-zpvg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/00met-columbia-response1-zpvg/00met-columbia-response1-zpvg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/20/multimedia/00met-columbia-response1-zpvg/00met-columbia-response1-zpvg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2469ab5c-3338-5f96-b14c-62f39f499b77",
+      "url": "https://www.nytimes.com/2025/03/18/well/lower-back-pain-treatments-nsaids.html",
+      "id": 100000010057255,
+      "asset_id": 100000010057255,
+      "source": "New York Times",
+      "published_date": "2025-03-18",
+      "updated": "2025-03-24 23:41:32",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Back (Human Body Part);Research;Therapy and Rehabilitation;Placebos;Muscles",
+      "column": null,
+      "byline": "By Nina Agrawal",
+      "type": "Article",
+      "title": "What Works for Low Back Pain? Not Much, a New Study Says.",
+      "abstract": "Researchers looked at 56 treatments for acute and chronic pain. Few of them were effective.",
+      "des_facet": [
+        "Back (Human Body Part)",
+        "Research",
+        "Therapy and Rehabilitation",
+        "Placebos",
+        "Muscles"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/well/WELL-BACK-PAIN1/WELL-BACK-PAIN1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/well/WELL-BACK-PAIN1/WELL-BACK-PAIN1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/well/WELL-BACK-PAIN1/WELL-BACK-PAIN1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5cfc23ee-a197-5670-8630-74dc44b11891",
+      "url": "https://www.nytimes.com/2025/03/10/well/covid-long-term-health-damage.html",
+      "id": 100000009967954,
+      "asset_id": 100000009967954,
+      "source": "New York Times",
+      "published_date": "2025-03-10",
+      "updated": "2025-03-12 20:47:46",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Long Covid;Coronavirus (2019-nCoV);Heart;Brain;Research",
+      "column": null,
+      "byline": "By Dani Blum, Nina Agrawal and Alice Callahan",
+      "type": "Article",
+      "title": "A Clearer Picture of Covid’s Lasting Effects on the Body",
+      "abstract": "Five years on, scientists are starting to understand how the virus can lead to long-term, sometimes invisible changes.",
+      "des_facet": [
+        "Long Covid",
+        "Coronavirus (2019-nCoV)",
+        "Heart",
+        "Brain",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ibrahim Rayintakath",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/11/well/10WELL-COVID-BODY-Opener/10WELL-COVID-BODY-Opener-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/11/well/10WELL-COVID-BODY-Opener/10WELL-COVID-BODY-Opener-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/11/well/10WELL-COVID-BODY-Opener/10WELL-COVID-BODY-Opener-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ebb3d8e4-c27e-55b3-91fd-08c984125319",
+      "url": "https://www.nytimes.com/2025/03/24/opinion/stock-market-trump-retirement.html",
+      "id": 100000010063148,
+      "asset_id": 100000010063148,
+      "source": "New York Times",
+      "published_date": "2025-03-24",
+      "updated": "2025-03-25 07:26:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Stocks and Bonds;Standard & Poor's 500-Stock Index;Content Type: Service;Banking and Financial Institutions;Regulation and Deregulation of Industry;Consumer Confidence (Economic Indicator);United States Economy;Pensions and Retirement Plans;401(k), 403(b) and 457 Plans;Personal Finances;Recession and Depression;Trump, Donald J",
+      "column": null,
+      "byline": "By William D. Cohan",
+      "type": "Article",
+      "title": "Your Retirement Portfolio Is Like Kindling. Trump Just Lit a Match.",
+      "abstract": "Trump’s tariff threats are hammering the stock market and could mean trouble for our already vulnerable retirement portfolios.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Stocks and Bonds",
+        "Standard & Poor's 500-Stock Index",
+        "Content Type: Service",
+        "Banking and Financial Institutions",
+        "Regulation and Deregulation of Industry",
+        "Consumer Confidence (Economic Indicator)",
+        "United States Economy",
+        "Pensions and Retirement Plans",
+        "401(k), 403(b) and 457 Plans",
+        "Personal Finances",
+        "Recession and Depression"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cathy Scola/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/24/opinion/24cohan/24cohan-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/24/opinion/24cohan/24cohan-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/24/opinion/24cohan/24cohan-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3d60c6a3-8140-559d-a7d5-0ff60ea9fe07",
+      "url": "https://www.nytimes.com/2025/03/23/opinion/trump-canada-ukraine.html",
+      "id": 100000010065531,
+      "asset_id": 100000010065531,
+      "source": "New York Times",
+      "published_date": "2025-03-23",
+      "updated": "2025-03-24 20:35:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States International Relations;Customs (Tariff);Russian Invasion of Ukraine (2022);United States Politics and Government;Trump, Donald J;Canada;Russia;Ukraine",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "Canada, May I Introduce You to Ukraine?",
+      "abstract": "We already know what happens when great powers feel entitled to their zones of control and the strong try to dominate the weak.",
+      "des_facet": [
+        "United States International Relations",
+        "Customs (Tariff)",
+        "Russian Invasion of Ukraine (2022)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Canada",
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amber Bracken/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/multimedia/23French-fvpg/23French-fvpg-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/multimedia/23French-fvpg/23French-fvpg-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/multimedia/23French-fvpg/23French-fvpg-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c35a2bb6-ca58-58fb-a700-dc62b23ce052",
+      "url": "https://www.nytimes.com/2025/03/20/well/mind/sleep-cognitive-shuffling.html",
+      "id": 100000010028642,
+      "asset_id": 100000010028642,
+      "source": "New York Times",
+      "published_date": "2025-03-20",
+      "updated": "2025-03-27 10:05:03",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Sleep;Insomnia;Research;Content Type: Service",
+      "column": null,
+      "byline": "By Christina Caron",
+      "type": "Article",
+      "title": "A Simple Technique to Help You Fall Asleep",
+      "abstract": "“Cognitive shuffling” can calm a busy brain.",
+      "des_facet": [
+        "Sleep",
+        "Insomnia",
+        "Research",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vanessa Saba",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/well/20WELL-PSYCH101-COGNITIVE-SHUFFLING/20WELL-PSYCH101-COGNITIVE-SHUFFLING-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/well/20WELL-PSYCH101-COGNITIVE-SHUFFLING/20WELL-PSYCH101-COGNITIVE-SHUFFLING-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/25/well/20WELL-PSYCH101-COGNITIVE-SHUFFLING/20WELL-PSYCH101-COGNITIVE-SHUFFLING-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7a383f82-5ec4-5521-abf7-eff5b968400e",
+      "url": "https://www.nytimes.com/2025/03/21/opinion/democrats-trump-resistance.html",
+      "id": 100000010053877,
+      "asset_id": 100000010053877,
+      "source": "New York Times",
+      "published_date": "2025-03-21",
+      "updated": "2025-03-22 14:30:59",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Demonstrations, Protests and Riots;Corruption (Institutional);Democracy (Theory and Philosophy);Authoritarianism (Theory and Philosophy);Trump, Donald J;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Ben Rhodes",
+      "type": "Article",
+      "title": "There Is a Way for Democrats to Stop Trump and Save America",
+      "abstract": "The Democratic Party can’t stop America’s spiral into autocracy and oligarchy unless it casts off its stale talking points and reimagines what it stands for.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Demonstrations, Protests and Riots",
+        "Corruption (Institutional)",
+        "Democracy (Theory and Philosophy)",
+        "Authoritarianism (Theory and Philosophy)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Metz",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/opinion/21rhodes-image/21rhodes-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/opinion/21rhodes-image/21rhodes-image-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/opinion/21rhodes-image/21rhodes-image-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7c25a674-ca29-5577-a938-c94c8e95aa02",
+      "url": "https://www.nytimes.com/2025/03/20/well/ai-drug-repurposing.html",
+      "id": 100000009988711,
+      "asset_id": 100000009988711,
+      "source": "New York Times",
+      "published_date": "2025-03-20",
+      "updated": "2025-03-23 22:27:50",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Artificial Intelligence;Rare and Orphan Diseases;Drugs (Pharmaceuticals);Transplants;Tests (Medical);Research;University of Pennsylvania",
+      "column": null,
+      "byline": "By Kate Morgan",
+      "type": "Article",
+      "title": "Doctors Told Him He Was Going to Die. Then A.I. Saved His Life.",
+      "abstract": "Scientists are using machine learning to find new treatments among thousands of old medicines.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Rare and Orphan Diseases",
+        "Drugs (Pharmaceuticals)",
+        "Transplants",
+        "Tests (Medical)",
+        "Research"
+      ],
+      "org_facet": [
+        "University of Pennsylvania"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Coates assumed he was going to die as a result of a rare blood disorder. But his girlfriend decided to contact Dr. Fajgenbaum, who was using A.I. to find new uses for old drugs.",
+          "copyright": "Hannah Yoon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/WELL-AI-DRUG-DEVELOPMENT2-btvk/WELL-AI-DRUG-DEVELOPMENT2-btvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/WELL-AI-DRUG-DEVELOPMENT2-btvk/WELL-AI-DRUG-DEVELOPMENT2-btvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/WELL-AI-DRUG-DEVELOPMENT2-btvk/WELL-AI-DRUG-DEVELOPMENT2-btvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f44c637b-e423-55aa-b0c0-9ee3d8edf387",
+      "url": "https://www.nytimes.com/2025/03/23/opinion/trump-judge-venezuela-deportation.html",
+      "id": 100000010064414,
+      "asset_id": 100000010064414,
+      "source": "New York Times",
+      "published_date": "2025-03-23",
+      "updated": "2025-03-24 09:45:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Courts and the Judiciary;United States Politics and Government;Federal Courts (US);Presidential Power (US);Deportation;Illegal Immigration;Alien Enemies Act (1798);Constitution (US);Trump, Donald J;Boasberg, James E;Marshall, John;Roberts, John G Jr;Justice Department;Republican Party;Supreme Court (US)",
+      "column": null,
+      "byline": "By J. Michael Luttig",
+      "type": "Article",
+      "title": "It’s Trump vs. the Courts, and It Won’t End Well for Trump",
+      "abstract": "The judiciary will never surrender to the president its constitutional role to interpret the Constitution.",
+      "des_facet": [
+        "Courts and the Judiciary",
+        "United States Politics and Government",
+        "Federal Courts (US)",
+        "Presidential Power (US)",
+        "Deportation",
+        "Illegal Immigration",
+        "Alien Enemies Act (1798)",
+        "Constitution (US)"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Boasberg, James E",
+        "Marshall, John",
+        "Roberts, John G Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00luttig-wgfj/00luttig-wgfj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00luttig-wgfj/00luttig-wgfj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00luttig-wgfj/00luttig-wgfj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b26e11e-08da-552a-8e26-98d30818c431",
+      "url": "https://www.nytimes.com/2025/03/25/opinion/trump-china-ai.html",
+      "id": 100000010070833,
+      "asset_id": 100000010070833,
+      "source": "New York Times",
+      "published_date": "2025-03-25",
+      "updated": "2025-03-26 10:46:10",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;International Trade and World Market;Robots and Robotics;United States International Relations;Trump, Donald J;Xi Jinping;China",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "What I’m Hearing in China This Week About Our Shared Future",
+      "abstract": "We need the two superpowers to get serious about devising a regulatory and technological framework that keeps A.I. under human control.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "International Trade and World Market",
+        "Robots and Robotics",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "VCG/ Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/opinion/25friedman/25friedman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/opinion/25friedman/25friedman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/opinion/25friedman/25friedman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c54bd611-0ba9-5a73-bf9f-8cbadfb1f95e",
+      "url": "https://www.nytimes.com/2025/03/20/world/europe/george-lewis-comedy-uk-dad.html",
+      "id": 100000009825679,
+      "asset_id": 100000009825679,
+      "source": "New York Times",
+      "published_date": "2025-03-20",
+      "updated": "2025-03-20 13:31:33",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Comedy and Humor;Content Type: Personal Profile;Parenting;Men and Boys;Millennial Generation;Social Media;Video Recordings, Downloads and Streaming;Lewis, George (Comedian);Great Britain",
+      "column": null,
+      "byline": "By Amelia Nierenberg",
+      "type": "Article",
+      "title": "How a British Dad Made Comedy Gold Imagining Two Toddlers Chatting",
+      "abstract": "George Lewis’s riffs on the absurdities of millennial parenting — and the inner lives of 2-year-olds — have won him legions of fans online and galvanized his once middling stand-up career.",
+      "des_facet": [
+        "Comedy and Humor",
+        "Content Type: Personal Profile",
+        "Parenting",
+        "Men and Boys",
+        "Millennial Generation",
+        "Social Media",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lewis, George (Comedian)"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Lewis, a bard of British parenting comedy, is on his first tour as a headliner, and his shows keep selling out.",
+          "copyright": "Andrew Testa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-uk-dad-comedy-01-thpv/18int-uk-dad-comedy-01-thpv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-uk-dad-comedy-01-thpv/18int-uk-dad-comedy-01-thpv-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-uk-dad-comedy-01-thpv/18int-uk-dad-comedy-01-thpv-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/d544dd75-9fd0-58fb-ab49-0a32514b4592",
+      "url": "https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html",
+      "id": 100000010061130,
+      "asset_id": 100000010061130,
+      "source": "New York Times",
+      "published_date": "2025-03-24",
+      "updated": "2025-03-25 11:57:56",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Records and Achievements;Rubik's Cube",
+      "column": null,
+      "byline": "By Siobhan Roberts, Jeremy White, Sean Catangui and Antonio de Luca",
+      "type": "Interactive",
+      "title": "‘Don’t Think, Just Solve’",
+      "abstract": "Max Park is a longtime speedcubing world record holder — for the 3x3x3 cube, his best official time is 3.13 seconds. Let's show you how he does it.",
+      "des_facet": [
+        "Records and Achievements",
+        "Rubik's Cube"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/science/00SCI-rubiks-cube-promo/00SCI-rubiks-cube-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/science/00SCI-rubiks-cube-promo/00SCI-rubiks-cube-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/23/science/00SCI-rubiks-cube-promo/00SCI-rubiks-cube-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7c100c16-b597-5ddf-b071-e7d2703c518b",
+      "url": "https://www.nytimes.com/2025/03/22/opinion/doge-elon-musk-usda-crops.html",
+      "id": 100000010056601,
+      "asset_id": 100000010056601,
+      "source": "New York Times",
+      "published_date": "2025-03-22",
+      "updated": "2025-03-25 14:27:53",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Food;Agriculture and Farming;Genetics and Heredity;Food Insecurity;Research;Government Employees;Layoffs and Job Reductions;Global Warming;Apples;Seeds;United States Politics and Government;Trump, Donald J;Musk, Elon;National Plant Germplasm System (US);Agriculture Department;Government Efficiency Department (US);United States",
+      "column": null,
+      "byline": "By Iago Hale and Michael Kantar",
+      "type": "Article",
+      "title": "Why Did Elon Musk Go After Bunkers Full of Seeds?",
+      "abstract": "Gene banks are like a survivalist cache: our nation’s safeguard against all future challenges to growing the food we need.",
+      "des_facet": [
+        "Food",
+        "Agriculture and Farming",
+        "Genetics and Heredity",
+        "Food Insecurity",
+        "Research",
+        "Government Employees",
+        "Layoffs and Job Reductions",
+        "Global Warming",
+        "Apples",
+        "Seeds",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "National Plant Germplasm System (US)",
+        "Agriculture Department",
+        "Government Efficiency Department (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ohni Lisle",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/opinion/22hale-kantar/22hale-kantar-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/opinion/22hale-kantar/22hale-kantar-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/22/opinion/22hale-kantar/22hale-kantar-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5fb7944-9327-59df-919b-06c2ab5224df",
+      "url": "https://www.nytimes.com/2025/03/26/well/mind/retirement-brain-mental-health-tips.html",
+      "id": 100000009808196,
+      "asset_id": 100000009808196,
+      "source": "New York Times",
+      "published_date": "2025-03-26",
+      "updated": "2025-03-27 03:11:29",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Brain;Mental Health and Disorders;Elderly;Retirement;Depression (Mental);Volunteers and Community Service;Habits and Routines (Behavior);Psychology and Psychologists;Hobbies;Content Type: Service;Loneliness;Memory;Creativity",
+      "column": null,
+      "byline": "By Mohana Ravindranath",
+      "type": "Article",
+      "title": "What Happens to Your Brain When You Retire?",
+      "abstract": "It’s challenging to stay mentally sharp and healthy through the major transition. Careful planning is key.",
+      "des_facet": [
+        "Brain",
+        "Mental Health and Disorders",
+        "Elderly",
+        "Retirement",
+        "Depression (Mental)",
+        "Volunteers and Community Service",
+        "Habits and Routines (Behavior)",
+        "Psychology and Psychologists",
+        "Hobbies",
+        "Content Type: Service",
+        "Loneliness",
+        "Memory",
+        "Creativity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vartika Sharma",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26WELL-RETIREMENT-MENTAL-HEALTH-image/26WELL-RETIREMENT-MENTAL-HEALTH-image-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26WELL-RETIREMENT-MENTAL-HEALTH-image/26WELL-RETIREMENT-MENTAL-HEALTH-image-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/26/well/26WELL-RETIREMENT-MENTAL-HEALTH-image/26WELL-RETIREMENT-MENTAL-HEALTH-image-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ef881f85-975b-551b-9057-8b691598b3b9",
+      "url": "https://www.nytimes.com/2025/03/20/opinion/autism-diagnosis-rfk-vaccines.html",
+      "id": 100000010048560,
+      "asset_id": 100000010048560,
+      "source": "New York Times",
+      "published_date": "2025-03-20",
+      "updated": "2025-03-26 22:37:37",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Autism;Vaccination and Immunization;Disabilities;Children and Childhood;Rumors and Misinformation;Kennedy, Robert F Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Holden Thorp",
+      "type": "Article",
+      "title": "I Was Diagnosed With Autism at 53. I Know Why Rates Are Rising.",
+      "abstract": "Greater awareness, not vaccines, has driven an increase in diagnoses.",
+      "des_facet": [
+        "Autism",
+        "Vaccination and Immunization",
+        "Disabilities",
+        "Children and Childhood",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kennedy, Robert F Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Charles Krupa/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/27/multimedia/ltzj/ltzj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/27/multimedia/ltzj/ltzj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/27/multimedia/ltzj/ltzj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
